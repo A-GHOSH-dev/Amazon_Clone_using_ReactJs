@@ -11,12 +11,14 @@ function Home() {
             alt=""/>
 
             <div className="home__row">
-                <Product id="12312121"
-                      title='Collectible India Shiva Idol Statue - Hindu God Bholenath Shiva Idol Showpiece for Pooja Lord Blessing Shanker Deity Figurine Home Office Temple Art Decor(Size 6 x 4.5 Inches)'
-                      price={"2,849"}
-                      image="https://m.media-amazon.com/images/I/61sbsKUKatL._SL1280_.jpg"
+
+                <Product id="77745931"
+                      title='Whirlpool 1.5 Ton 5 Star Inverter Split AC (Copper, 1.5T MAGICOOL PRO 5S COPR INVERTER, White)'
+                      price={"33,990"}
+                      image="https://m.media-amazon.com/images/I/61txU3NE6aL._SL1500_.jpg"
                       rating={5} 
-                      />
+                      /> 
+                
                 <Product id="32467458"
                       title='Urban Forest Spencer Leather Wallet Combo Gift Set'
                       price={"1,268"}
@@ -40,12 +42,13 @@ function Home() {
                       image="https://m.media-amazon.com/images/I/71FHcGAPevL._SL1498_.jpg"
                       rating={5} 
                       />
-                <Product id="77745931"
-                      title='Whirlpool 1.5 Ton 5 Star Inverter Split AC (Copper, 1.5T MAGICOOL PRO 5S COPR INVERTER, White)'
-                      price={"33,990"}
-                      image="https://m.media-amazon.com/images/I/61txU3NE6aL._SL1500_.jpg"
+               
+                <Product id="12312121"
+                      title='Collectible India Shiva Idol Statue - Hindu God Bholenath Shiva Idol Showpiece for Pooja Lord Blessing Shanker Deity Figurine Home Office Temple Art Decor(Size 6 x 4.5 Inches)'
+                      price={"2,849"}
+                      image="https://m.media-amazon.com/images/I/61sbsKUKatL._SL1280_.jpg"
                       rating={5} 
-                      />    
+                      />   
             </div>
 
             <div className="home__row">
